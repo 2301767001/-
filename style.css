@@ -1,0 +1,293 @@
+
+body{
+    
+    background-color: rgb(219, 219, 219);
+
+}
+
+.wrapper{
+    width: 250px;
+    height: 250px;
+    margin: 50px auto;
+    margin-left: 150px;
+    border-radius: 20px;
+    padding: 20px 6px;
+    background-color:ghostwhite;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.7);
+ 
+}
+
+label{
+    margin-left: 20px;
+}
+
+input{
+    display: block;
+    width: 90%;
+    margin: 10px;
+    font-size: 17px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    outline: none;
+    padding: 1.5px;
+    box-shadow: inset;
+}
+
+ button{
+    border: none;
+    outline: none;
+    height: 35px;
+    color:white;
+    background: green;
+    cursor: pointer;
+    font-size: 12px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 3px 4px 0px, rgba(0, 0, 0, 0.15) 0px 3px 8px 5px;
+ }
+  
+.btn1{
+    width: 40%;
+    margin-top: 14px ;
+    margin-left: 12px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 3px 4px 0px, rgba(0, 0, 0, 0.15) 0px 3px 8px 5px;
+}
+ 
+.btn2{
+    width: 40%;
+    margin-top: 14px;
+    margin-left: 14px;
+    background: blue;
+}          
+
+.image{
+    margin-top:  -300px;
+    margin-left: 550px;
+    
+    
+}
+
+img{
+    width: 750px;
+    height: 280px;
+    cursor: pointer;
+    border-radius: 35%;
+
+}
+
+.Title {
+    width: 170px;
+    height: 170px;
+    margin: 50px auto;
+    margin-left: -410px;
+    border-radius: 20px;
+    padding: 20px 6px;
+    background-color:lightpink;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.7);
+ 
+}
+
+.white-circle {
+    width:50px;
+    height:50px;
+    margin-left: 55px;
+    margin-top: 1px;
+}
+
+h1 {
+    font-size: 25px;
+    margin-left: 55px;
+    margin-top: 10px;
+
+}
+
+p {
+    font-size: 12px;
+    margin-left: 27px;
+    margin-top: 20px;
+
+}
+
+.Title-1 {
+    width: 170px;
+    height: 170px;
+    margin: 50px auto;
+    margin-left: -90px;
+    margin-top:  -216px;
+    border-radius: 20px;
+    padding: 20px 6px;
+    background-color:lightpink;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.7);
+ 
+}
+
+.white-circle {
+    width:50px;
+    height:50px;
+    margin-left: 55px;
+    margin-top: 1px;
+}
+
+h1 {
+    font-size: 25px;
+    margin-left: 55px;
+    margin-top: 10px;
+
+}
+
+p {
+    font-size: 12px;
+    margin-left: 27px;
+    margin-top: 20px;
+
+}
+
+.Title-2 {
+    width: 170px;
+    height: 170px;
+    margin: 50px auto;
+    margin-left: 230px;
+    margin-top:  -216px;
+    border-radius: 20px;
+    padding: 20px 6px;
+    background-color:lightpink;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.7);
+ 
+}
+
+.white-circle {
+    width:50px;
+    height:50px;
+    margin-left: 55px;
+    margin-top: 1px;
+}
+
+h1 {
+    font-size: 25px;
+    margin-left: 55px;
+    margin-top: 10px;
+
+}
+
+p {
+    font-size: 12px;
+    margin-left: 27px;
+    margin-top: 20px;
+
+}
+
+.Title-3 {
+    width: 170px;
+    height: 170px;
+    margin: 50px auto;
+    margin-left: 550px;
+    margin-top:  -216px;
+    border-radius: 20px;
+    padding: 20px 6px;
+    background-color:lightpink;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.7);
+ 
+}
+
+.white-circle {
+    width:50px;
+    height:50px;
+    margin-left: 55px;
+    margin-top: 1px;
+}
+
+h1 {
+    font-size: 25px;
+    margin-left: 55px;
+    margin-top: 10px;
+
+}
+
+p {
+    font-size: 12px;
+    margin-left: 27px;
+    margin-top: 20px;
+
+}
+
+.Heading {
+    width: 510px;
+    height: 75px;
+    margin: 50px auto;
+    margin-left: -410px;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 20px 6px;
+    background-color:cornflowerblue;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.7);
+ 
+}
+
+h2 {
+    font-size: 30px;
+    margin-left: 225px;
+    margin-top: -3px;
+}
+
+.Heading-1 {
+    width: 535px;
+    height: 75px;
+    margin: 50px auto;
+    margin-left: 200px;
+    margin-top: -125px;
+    border-radius: 20px;
+    padding: 20px 6px;
+    background-color:cornflowerblue;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.7);
+ 
+}
+
+h3 {
+    font-size: 30px;
+    margin-left: 203px;
+    margin-top: -3px;
+}
+
+.Paragraph {
+    width: 1150px;
+    height: 100px;
+    margin: 50px auto;
+    margin-left: -410px;
+    margin-top: -1px;
+    border-radius: 20px;
+    padding: 20px 6px;
+    background-color:aquamarine;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.7);
+ 
+}
+
+.btn3 {
+    font-size: 15px;
+    color: black;
+    width: 20%;
+    height: 55px;
+    margin-top: 1.5px;
+    margin-left: 100px;
+    background: aquamarine;
+}          
+
+.btn4 {
+    font-size: 15px;
+    color: black;
+    width: 20%;
+    height: 55px;
+    margin-top: 1.5px;
+    margin-left: 130px;
+    background: aquamarine;
+}          
+
+.btn5 {
+    font-size: 15px;
+    color: black;
+    width: 20%;
+    height: 55px;
+    margin-top: 1.5px;
+    margin-left: 120px;
+    background: aquamarine;
+}          
+
